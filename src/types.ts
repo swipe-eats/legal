@@ -6,6 +6,10 @@ export type LegalBlock =
 			text: string;
 	  }
 	| {
+			type: "subheading";
+			text: string;
+	  }
+	| {
 			type: "list";
 			items: readonly string[];
 	  };

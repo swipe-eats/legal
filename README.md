@@ -2,9 +2,13 @@
 
 Shared legal document data for Swipe Eats apps and websites.
 
-This package intentionally stores legal copy as structured data instead of raw
-Markdown or plain text. The app and website should render these documents with
-their own UI components while importing the same source copy and versions.
+Human-editable legal copy lives in `content/*.md`. The app and website should
+render the generated package exports with their own UI components while importing
+the same source copy and versions.
+
+Do not edit files in `src/generated` directly. They are generated from Markdown.
+Consumers should not parse Markdown or run these scripts themselves; generation
+belongs to this package.
 
 ## Local Development
 
@@ -18,6 +22,12 @@ After changing legal copy, build this package before testing local consumers:
 
 ```sh
 pnpm build
+```
+
+To check whether generated files are up to date:
+
+```sh
+pnpm check
 ```
 
 ## GitHub Install
