@@ -1,0 +1,667 @@
+export const termsAndConditions = {
+    slug: "terms-and-conditions",
+    title: "Terms and Conditions",
+    version: "2026-05-28",
+    effectiveDate: "5/28/2026",
+    intro: [
+        {
+            type: "paragraph",
+            text: "Welcome to Swipe Eats. These Terms and Conditions govern your access to and use of the Swipe Eats mobile application, websites, web pages, services, features, content, and related tools.",
+        },
+        {
+            type: "paragraph",
+            text: "By creating an account, accessing, or using Swipe Eats, you agree to these Terms. If you do not agree, you may not use the Service.",
+        },
+    ],
+    sections: [
+        {
+            heading: "1. Introduction",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats is a recipe discovery and social food platform that allows users to create, view, save, share, and interact with recipes, collections, profiles, comments, and related content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "This includes the Swipe Eats mobile application, websites, web pages, public recipe pages, public profile pages, public collection pages, shared links, embedded previews, advertising surfaces, creator tools, and any related online features operated by Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "These Terms explain the rules for using Swipe Eats, your responsibilities as a user, our rights as the operator of the Service, and the limits of our liability.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Our Privacy Policy explains how we collect, use, share, store, and protect personal information.",
+                },
+            ],
+        },
+        {
+            heading: "2. Eligibility",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "You must be at least 13 years old to use Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If you are under the age of majority in your state, province, or country, you may use the Service only with permission from a parent or legal guardian.",
+                },
+                {
+                    type: "paragraph",
+                    text: "By using Swipe Eats, you represent that:",
+                },
+                {
+                    type: "paragraph",
+                    text: "You are legally able to agree to these Terms.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You are not prohibited from using the Service under applicable law.",
+                },
+                {
+                    type: "paragraph",
+                    text: "The information you provide to us is accurate and current.",
+                },
+            ],
+        },
+        {
+            heading: "3. Accounts",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "To use certain features of Swipe Eats, you may need to create an account.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You are responsible for:",
+                },
+                {
+                    type: "paragraph",
+                    text: "Keeping your login information secure.",
+                },
+                {
+                    type: "paragraph",
+                    text: "All activity that occurs under your account.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Providing accurate account information.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Updating your information if it changes.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You agree not to create an account using false information, impersonate another person, or use another person's account without permission.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You may delete your account through the app settings. Account deletion is described in more detail in our Privacy Policy.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We may suspend, restrict, or terminate your account if we believe you violated these Terms, created risk for Swipe Eats or other users, or used the Service in a harmful or unlawful way.",
+                },
+            ],
+        },
+        {
+            heading: "4. User Content",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: 'Swipe Eats allows users to upload, post, create, submit, save, comment on, or share content, including recipes, photos, videos, profile information, captions, comments, collections, and other materials. This is called "User Content."',
+                },
+                {
+                    type: "paragraph",
+                    text: "You are responsible for your User Content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You represent and warrant that:",
+                },
+                {
+                    type: "paragraph",
+                    text: "You own your User Content or have permission to post it.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your User Content does not violate another person's rights.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your User Content does not violate any law.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your User Content does not include harmful, misleading, abusive, or prohibited material.",
+                },
+                {
+                    type: "paragraph",
+                    text: "User Content you post, upload, submit, or otherwise make available through the Service may be public or visible to others, including through the Swipe Eats app, Swipe Eats websites, public web pages, shared links, previews, search results, recommendations, promotional surfaces, and other online features.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You should not post content that includes private information about another person without their permission.",
+                },
+            ],
+        },
+        {
+            heading: "5. License to User Content",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "You keep ownership of the content you post to Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "However, by posting, uploading, submitting, or sharing User Content through the Service, you grant Swipe Eats a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to host, store, reproduce, display, distribute, modify, adapt, create derivative works from, promote, and otherwise use your User Content as needed to operate, improve, market, and provide the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "This license allows us to:",
+                },
+                {
+                    type: "paragraph",
+                    text: "Display your recipes, profile content, collections, comments, photos, videos, and other User Content to other users.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Display your User Content in the Swipe Eats app, on Swipe Eats websites, on public web pages, in shared links, in previews, in feeds, in search results, in recommendations, in collections, on profiles, and through other Service features.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Make User Content available to people who do not have a Swipe Eats account.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Create, display, or optimize web pages based on your User Content, including recipe pages, collection pages, profile pages, and other content pages.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Allow User Content to be indexed, previewed, cached, ranked, summarized, or displayed by search engines, social platforms, browsers, AI tools, and other third-party services, unless we choose to restrict indexing.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Format, resize, compress, transcode, crop, or adapt media for technical, design, performance, web, or platform reasons.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Promote Swipe Eats using content made available through the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Use your content to improve app features, ranking, discovery, recommendations, personalization, search, advertising, and user experience.",
+                },
+                {
+                    type: "paragraph",
+                    text: "This license ends when your User Content is deleted from the Service, except where continued use is reasonably necessary for backup, legal, safety, moderation, analytics, security, technical, advertising, or legitimate business purposes, or where your content has already been shared, saved, cached, indexed, screenshotted, copied, or otherwise used by others.",
+                },
+            ],
+        },
+        {
+            heading: "6. Public Web Availability",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats may make User Content and some or all features of the Service available through websites, public web pages, shared links, previews, search results, and other online surfaces.",
+                },
+                {
+                    type: "paragraph",
+                    text: "This may include recipes, recipe photos, recipe videos, ingredients, instructions, captions, collections, comments, usernames, profile information, engagement information, and other User Content or activity made available through the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "User Content may be accessible to people who do not have a Swipe Eats account. User Content may also be indexed, cached, displayed, ranked, summarized, linked, or previewed by search engines, social platforms, browsers, AI tools, and other third-party services.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If you are a recipe creator, blogger, business, or other publisher, you are responsible for deciding whether to post content to Swipe Eats that also appears on your own website, blog, social media, cookbook, newsletter, or other publication. Swipe Eats web pages may appear in search results and may affect how your content appears or performs on third-party search engines or platforms.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If you delete User Content or your account, Swipe Eats will take reasonable steps to remove or de-identify that content from surfaces we control, subject to our Privacy Policy. However, copies may remain temporarily in backups, caches, search engine results, shared links, screenshots, archives, or places outside our control.",
+                },
+            ],
+        },
+        {
+            heading: "7. Creator and Publisher Considerations",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "If you post recipes or other content that also appears on your own blog, website, social media, cookbook, newsletter, or other publication, you understand that publishing the same or similar content on Swipe Eats may affect how that content appears, performs, or ranks on search engines or other third-party platforms.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats does not guarantee that your own website, blog, or publication will receive traffic, attribution, ranking benefits, search engine placement, or other benefits as a result of posting on Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats does not provide a user opt-out that prevents User Content you post from being displayed through Swipe Eats websites, public web pages, shared links, previews, search results, recommendations, promotional surfaces, or other online features.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You are responsible for ensuring that any content you post to Swipe Eats is content you have the right to post, publish, distribute, and make available through the Service.",
+                },
+            ],
+        },
+        {
+            heading: "8. Prohibited Conduct",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "You agree not to use Swipe Eats to:",
+                },
+                {
+                    type: "paragraph",
+                    text: "Violate any law or regulation.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Post content you do not have the right to use.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Infringe copyrights, trademarks, privacy rights, publicity rights, or other rights.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Harass, threaten, abuse, defame, or harm another person.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Post hateful, violent, sexually explicit, exploitative, or discriminatory content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Upload malware, harmful code, spam, or deceptive content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Scrape, copy, or collect data from the Service without permission.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Reverse engineer, disrupt, overload, or interfere with the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Create fake engagement, fake accounts, or misleading activity.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Misrepresent recipes, ingredients, nutrition, allergens, or health-related information.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Use Swipe Eats for unlawful commercial activity without permission.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Interfere with advertising, sponsored content, affiliate links, tracking, attribution, or measurement systems.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Attempt to manipulate rankings, recommendations, feeds, search results, or engagement metrics.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We reserve the right to investigate and take action against violations, including removing content, limiting distribution, suspending accounts, or terminating access.",
+                },
+            ],
+        },
+        {
+            heading: "9. Community Guidelines and Moderation",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats is intended to be a positive food and recipe community.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We may review, moderate, remove, restrict, or disable access to User Content at our discretion, including content that we believe violates these Terms, creates risk, infringes rights, or harms the user experience.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We are not required to monitor all User Content, and we do not guarantee that all content on the Service has been reviewed.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If you believe content violates these Terms or your rights, you may contact us at:",
+                },
+                {
+                    type: "paragraph",
+                    text: "support@swipe-eats.com",
+                },
+            ],
+        },
+        {
+            heading: "10. Recipes, Ingredients, Nutrition, Allergens, and Food Safety Disclaimer",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Recipes and food-related content on Swipe Eats may be created by users, generated with the help of automated tools, imported from third-party sources, or otherwise provided through the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats does not guarantee that any recipe or food-related information is accurate, complete, safe, or suitable for your needs.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Some recipes or features may include dietary, allergen, nutrition, ingredient, grocery, or food-related labels or information. This information may be user-provided, automatically generated, estimated, incomplete, outdated, or inaccurate.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats does not verify all recipe content, ingredient lists, cooking instructions, nutrition information, allergen information, dietary labels, grocery information, or food-related claims.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You are responsible for reviewing ingredients, preparation methods, allergen risks, cooking temperatures, expiration dates, food handling practices, and dietary suitability before preparing or consuming any recipe.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If you have allergies, medical conditions, dietary restrictions, food sensitivities, or nutrition needs, you should independently verify all ingredients and consult a qualified professional when appropriate.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats is not responsible for illness, allergic reactions, injury, loss, or damages resulting from recipes, ingredients, nutrition information, allergen information, dietary labels, cooking instructions, grocery substitutions, or food-related content available through the Service.",
+                },
+            ],
+        },
+        {
+            heading: "11. Third-Party Services and Links",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats may contain links, integrations, or references to third-party services, websites, apps, grocery providers, affiliate partners, analytics providers, hosting providers, payment processors, advertisers, or other third parties.",
+                },
+                {
+                    type: "paragraph",
+                    text: "These third-party services are not controlled by Swipe Eats. We are not responsible for their content, policies, practices, availability, security, products, or services.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your use of third-party services may be governed by their own terms and privacy policies.",
+                },
+                {
+                    type: "paragraph",
+                    text: "For example, if you click a grocery, affiliate, sponsored, or advertisement link, you may leave Swipe Eats and interact with a third-party service. That third party may collect information from you according to its own policies.",
+                },
+            ],
+        },
+        {
+            heading: "12. Ads, Sponsored Content, and Affiliate Links",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats may display advertisements, sponsored content, promoted recipes, promoted accounts, affiliate links, grocery links, or other commercial content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Sponsored or advertising content may be labeled as an ad, sponsored, promoted, or with a similar designation.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats may earn compensation when you view, click, interact with, or make purchases through certain ads, sponsored content, grocery links, affiliate links, or third-party partner links.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We do not guarantee the availability, pricing, quality, accuracy, safety, legality, or suitability of third-party products or services promoted or linked through Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Advertisers, sponsors, affiliate partners, and third-party services are responsible for their own products, services, claims, websites, apps, and privacy practices.",
+                },
+            ],
+        },
+        {
+            heading: "13. Intellectual Property",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats, including the app, design, logos, branding, features, software, graphics, text, code, databases, recommendation systems, ranking systems, and other materials, is owned by Swipe Eats or its licensors and is protected by intellectual property laws.",
+                },
+                {
+                    type: "paragraph",
+                    text: "You may not copy, modify, distribute, sell, lease, reverse engineer, or create derivative works from Swipe Eats without our permission, except as allowed by law.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Nothing in these Terms gives you ownership of Swipe Eats or our intellectual property.",
+                },
+            ],
+        },
+        {
+            heading: "14. Copyright Complaints",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "If you believe content on Swipe Eats infringes your copyright or intellectual property rights, contact us at:",
+                },
+                {
+                    type: "paragraph",
+                    text: "support@swipe-eats.com",
+                },
+                {
+                    type: "paragraph",
+                    text: "Please include:",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your name and contact information.",
+                },
+                {
+                    type: "paragraph",
+                    text: "A description of the copyrighted work.",
+                },
+                {
+                    type: "paragraph",
+                    text: "A link or description of the allegedly infringing content.",
+                },
+                {
+                    type: "paragraph",
+                    text: "A statement that you believe the use is unauthorized.",
+                },
+                {
+                    type: "paragraph",
+                    text: "A statement that the information you provide is accurate.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your physical or electronic signature.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We may remove or disable access to allegedly infringing content and may terminate repeat infringers when appropriate.",
+                },
+            ],
+        },
+        {
+            heading: "15. Termination",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "You may stop using Swipe Eats at any time.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We may suspend, restrict, or terminate your account or access to the Service at any time if we believe:",
+                },
+                {
+                    type: "paragraph",
+                    text: "You violated these Terms.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your activity creates risk or legal exposure.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your content may harm users, Swipe Eats, or third parties.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We are required to do so by law.",
+                },
+                {
+                    type: "paragraph",
+                    text: "We discontinue or modify the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "After termination, certain sections of these Terms will continue to apply, including User Content licenses, intellectual property, disclaimers, limitation of liability, indemnification, and governing law.",
+                },
+            ],
+        },
+        {
+            heading: "16. Disclaimers",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: 'Swipe Eats is provided on an "as is" and "as available" basis.',
+                },
+                {
+                    type: "paragraph",
+                    text: "We do not guarantee that:",
+                },
+                {
+                    type: "paragraph",
+                    text: "The Service will always be available.",
+                },
+                {
+                    type: "paragraph",
+                    text: "The Service will be uninterrupted or error-free.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Content will be accurate, complete, or reliable.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Recipes will be safe, accurate, or suitable for your needs.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Recommendations, feeds, rankings, or search results will meet your expectations.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Ads, affiliate links, or third-party services will be accurate or reliable.",
+                },
+                {
+                    type: "paragraph",
+                    text: "User Content will be unavailable on Swipe Eats websites, public web pages, shared links, previews, search results, recommendations, promotional surfaces, or other online features.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Third-party search engines, social platforms, browsers, AI tools, or other services will immediately update or remove content after changes are made in Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "The Service will be free from bugs, viruses, or harmful components.",
+                },
+                {
+                    type: "paragraph",
+                    text: "To the fullest extent permitted by law, Swipe Eats disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, title, and non-infringement.",
+                },
+            ],
+        },
+        {
+            heading: "17. Liability and Responsibility",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "You are responsible for the content you post, the recipes you choose to prepare, the ingredients you use, your interactions with other users, and your use of third-party services linked through Swipe Eats.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats is not responsible for losses or damages that result from:",
+                },
+                {
+                    type: "paragraph",
+                    text: "User-posted content;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Recipe errors, missing ingredients, incorrect instructions, or food safety issues;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Nutrition, allergen, dietary, or ingredient information;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your interactions with other users;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Third-party websites, grocery providers, advertisers, affiliate links, or services;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Search engine indexing, ranking changes, website traffic changes, cached content, or public web availability outside our control;",
+                },
+                {
+                    type: "paragraph",
+                    text: "Service interruptions, bugs, errors, or unavailable features.",
+                },
+                {
+                    type: "paragraph",
+                    text: "To the fullest extent allowed by law, Swipe Eats will not be responsible for indirect, incidental, special, consequential, exemplary, or punitive damages, such as lost profits, lost data, loss of goodwill, lost website traffic, personal injury, food-related illness, allergic reactions, or other similar losses related to your use of the Service.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If a claim arises because of content you posted, your misuse of the Service, your violation of these Terms, or your violation of another person's rights, you agree to be responsible for the resulting claim, damages, losses, costs, or expenses.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Nothing in these Terms limits rights you may have under laws that cannot be waived.",
+                },
+            ],
+        },
+        {
+            heading: "18. Governing Law",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "These Terms are governed by the laws of the State of Utah, without regard to conflict-of-law principles.",
+                },
+            ],
+        },
+        {
+            heading: "19. Changes to These Terms",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "We may update these Terms from time to time.",
+                },
+                {
+                    type: "paragraph",
+                    text: "If we make material changes, we may notify you through the Service, by email, or by other reasonable means.",
+                },
+                {
+                    type: "paragraph",
+                    text: "Your continued use of Swipe Eats after the updated Terms become effective means you accept the updated Terms.",
+                },
+            ],
+        },
+        {
+            heading: "20. Contact Us",
+            blocks: [
+                {
+                    type: "paragraph",
+                    text: "If you have questions about these Terms, contact us at:",
+                },
+                {
+                    type: "paragraph",
+                    text: "Swipe Eats",
+                },
+                {
+                    type: "paragraph",
+                    text: "Email: support@swipe-eats.com",
+                },
+            ],
+        },
+    ],
+};
+export const TERMS_VERSION = termsAndConditions.version;
