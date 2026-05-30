@@ -17,8 +17,7 @@
   "scripts": {
     "build": "node scripts/generate-documents.mjs && tsc -p tsconfig.json",
     "check": "node scripts/generate-documents.mjs --check && tsc -p tsconfig.json --noEmit",
-    "generate": "node scripts/generate-documents.mjs",
-    "prepare": "npm run build"
+    "generate": "node scripts/generate-documents.mjs"
   },
   "devDependencies": {
     "typescript": "^5.9.3"
